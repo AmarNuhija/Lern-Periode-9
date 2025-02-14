@@ -10,13 +10,13 @@
 ## 14.2.2025
 ## Leit-Satz
 
-
+Heute habe ich die Stunden so eingeplant, dass ich mir mehr Zeit nehme um Docker zu lernen für die kommende Prüfung am Montag. Ich bin die wichtigsten Befehle durchgegangen, habe mein Cheat-Sheet erstellt und bin zufrieden damit, was ich gelernt habe. Die nächsten Schritte waren dann die Videos von Herr Thut anzuschauen, die er uns im Modul 347 bereitgestellt hat. Die waren im verlaufe des Moduls sehr hilfreich und dadurch konnte ich auch mein Cheat-Sheet erstellen. Schach habe ich an diesem Freitag nur 1 bis 1.5 Blöcke angeschaut, da ich wirklich mehr Gewicht auf Docker gesetzt habe.(97 Wörter)
 
 ## Für den 21.2.2025
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Schach Spiel(Bis Ende LP9) 
+- [ ] Modul 114
+- [ ] 2. Modul 114
 - [ ] 
 
 ## 21.2.2025
