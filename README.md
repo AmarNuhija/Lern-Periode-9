@@ -14,15 +14,15 @@ Heute habe ich die Stunden so eingeplant, dass ich mir mehr Zeit nehme um Docker
 
 ## Für den 21.2.2025
 
-- [ ] Schach Spiel(Bis Ende LP9) 
+- [ ] Schach Spiel(Bis Ende LP9)
+- [ ] Schach Spiel
 - [ ] Modul 114
 - [ ] 2. Modul 114
-- [ ] 
 
 ## 21.2.2025
 ## Leit-Satz
 
-
+Heute habe ich mich voll und ganz darauf konzentiert, das Schach Spiel weiter zu entwickeln. Ich konnte das letzte Woche nicht ausführlich machen, da wir den Docker Test hatten und ich mit meiner erzielten Note zufrieden bin, ich habe eine 5 geschrieben. Ich finde diese Testform hat mir auch persöhnlich spass gemacht, die Abspaltung zwischen einem schriftlichen Docker Test und dann noch ein kleines Projekt zu verfassen. Im allgemeinen fand ich das ich heute mehr oder weniger produktiv war, da ich zum Modul 114 nicht wirklich kam. Ich konnte keine Tests abgegen, habe aber Vorlagen erstellt, die ich am Wochenende noch bearbeiten werde und dann spätestens am Sonntag abgegen werde.(110 Wörter)
 
 
 ## Für den 28.2.2025
