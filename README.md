@@ -14,10 +14,10 @@ Heute habe ich die Stunden so eingeplant, dass ich mir mehr Zeit nehme um Docker
 
 ## Für den 21.2.2025
 
-- [ ] Schach Spiel(Bis Ende LP9)
-- [ ] Schach Spiel
-- [ ] Modul 114
-- [ ] 2. Modul 114
+- [x] Schach Spiel(Bis Ende LP9)
+- [x] Schach Spiel
+- [x] Modul 114
+- [x] 2. Modul 114
 
 ## 21.2.2025
 ## Leit-Satz
