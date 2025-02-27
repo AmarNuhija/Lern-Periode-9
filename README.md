@@ -27,10 +27,10 @@ Heute habe ich mich voll und ganz darauf konzentiert, das Schach Spiel weiter zu
 
 ## Für den 28.2.2025
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Schach Spiel(Bis Ende LP9) 
+- [ ] Schach Spiel (2 Lektionen)
+- [ ] Modul 114
+- [ ] Modul 426 (Vorarbeiten Scrum)
 
 ## 28.2.2025
 ## Leit-Satz
