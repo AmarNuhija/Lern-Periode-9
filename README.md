@@ -27,10 +27,22 @@ Heute habe ich mich voll und ganz darauf konzentiert, das Schach Spiel weiter zu
 
 ## Für den 28.2.2025
 
-- [ ] Schach Spiel(Bis Ende LP9) 
-- [ ] Schach Spiel (2 Lektionen)
-- [ ] Modul 114
+- [X] Schach Spiel(Bis Ende LP9) 
+- [X] Schach Spiel (2 Lektionen)
+- [X] Modul 114
 - [ ] Modul 426 (Vorarbeiten Scrum)
 
 ## 28.2.2025
+## Leit-Satz
+
+Heute habe ich strickt nach den Blöcken den Tag beschmückt. Zuerst habe ich weitere Moves in mein Schach Spiel hinzugefügt, was nicht gerade so einfach war. Denn beim Bauer und Springer ist es immer ein bisschen schwieriger, weil man die einzelnen Elemente so unterscheiden muss ob sie über andere springen, oder ob sie die Gegner nur diagonal oder nur gerade aus schlagen können. Solchen Schwierigkeiten kamen beim Coden auf. Doch es hat auch wie die anderen Tage spass gemacht, mein Schach Spiel zu Codieren. Die anderen zwei Blöcke habe ich so aufgeteilt, das ich ein bisschen Modul 114 mache (Verschlüsselungsverfahren). Diesmal habe ich die Sicherheit im Netz erledigt und Huffman-Kodierung angeschaut. Die Huffman-Kodierung war von meiner Seite aus ein recht spannendes Thema. Die Strukturen mit dem ganzen Baum aufzuzeichen hat mir sehr viel spass zubereitet. 
+
+## Für den 7.3.2025
+
+- [ ] Schach Spiel(Bis Ende LP9)
+- [ ] Schach Spiel (2. Lektion)
+- [ ] Python-Basics für Modul 259
+- [ ] Modul 114 weitere Aufträge erledigen
+
+## 7.3.2025
 ## Leit-Satz
