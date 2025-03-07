@@ -54,7 +54,7 @@ Heute habe ich wieder die ersten zwei Lektionen so aufgeteilt, dass ich daran ar
 - [ ] Schach Spiel(Bis Ende LP9)
 - [ ] Schach Spiel(2. Lektion)
 - [ ] Modul 114 Abgabe erledigen.
-- [ ] Python Projekt(Ich entscheide mich noch was)
+- [ ] Python Projekt(Ich entscheide mich noch was für ein Projekt es wird)
 
 ## 14.3.2025
 ## Leit-Satz
