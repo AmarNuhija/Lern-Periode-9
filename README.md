@@ -46,3 +46,20 @@ Heute habe ich strickt nach den Blöcken den Tag beschmückt. Zuerst habe ich we
 
 ## 7.3.2025
 ## Leit-Satz
+
+Heute habe ich wieder die ersten zwei Lektionen so aufgeteilt, dass ich daran arbeite, dass mein Brett im Schach Spiel besser gestaltet ist. Denn die einzelnen Figuren sahen nicht ganz so gut aus und sie hatten noch einen Weißen Hintergrund, der bei jeder einzelnen Figur entfernt werden sollte. Das ging am einfachsten mit Photoshop. Am Anfang habe ich es mit einem AI Tool ausprobiert, mit Removal.AI, doch das ging nicht so transparent. Deswegen habe ich mit dafür entschieden, es selbst zu entfernen. Dauerte am Ende auch nicht so lange. Schlussendlich bin ich dann rüber gewechselt in die Module. Dort habe ich für heute das Modul 114 weiter erarbeitet und unzählige Videos zu kleinere Python-Programmier Methoden angeschaut. Im Allgemeinen ist Python wirklich eine etwas ruhigere Programmiersprache, da man wirklich nicht so unglaublich viel komplizierten Text schreiben muss. Mein erstes kleines Projekt habe ich auch schon mit Python gemacht, unzwar ein Programm das Passwörter beliebig erstellt. Ob mit Zahlen oder Sonderzeichen, bis hin zur länge kann man alles automatisch von sich selbst eingeben.
+
+## Für den 14.3.2025
+
+- [ ] Schach Spiel(Bis Ende LP9)
+- [ ] Schach Spiel(2. Lektion)
+- [ ] Modul 114 Abgabe erledigen.
+- [ ] Python Projekt(Ich entscheide mich noch was)
+
+## 14.3.2025
+## Leit-Satz
+
+
+
+
+
