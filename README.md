@@ -59,6 +59,17 @@ Heute habe ich wieder die ersten zwei Lektionen so aufgeteilt, dass ich daran ar
 ## 14.3.2025
 ## Leit-Satz
 
+Heute habe ich meine Zeit gut eingeteilt und konnte im Modul 114 einiges voranbringen. Schon am Mittwoch und auch huete habe ich wie gewohnt weitergearbeitet. Zusammen mit einen Schulkollegen habe ich heute die Aufgabe 1732 Email Verschlüsselung fertiggestellt. Es gibt zwar noch ein paar Kleinigkeiten, die ich anpassen muss, aber insgesamt bin ich zufrieden mit meiner heutigen Leistung. Ausserdem habe ich auch weiter an meinem Schachspiel gearbeitet. Die Figuren lassen sich mittlerweile schon bewegen. Allerdings ist mir heute aufgefallen, dass dabei noch nicht alles richtig funktioniertm weil ich wohl ein paar Fehler in den Bewegungsfunktionen eingebaut habe. Aber ich bin zuversichtlich, dass ich das nächste Woche korrigieren kann. Ich freue mich auch schon sehr auf das Python Modul, ich bin sicher, dass das richtig Spass machen wird.
+
+## Für den 21.3.2025
+
+- [ ] Schach Spiel(Bis Ende LP9)
+- [ ] Schach Spiel(2. Lektion)
+- [ ] Modul 114 Abgaben erledigen, falls bis dort noch nicht fertig.
+- [ ] Neue HTML Seite erstellen für Bewerbungen.
+
+## 21.3.2025
+## Leit-Satz
 
 
 
