@@ -39,10 +39,10 @@ Heute habe ich strickt nach den Blöcken den Tag beschmückt. Zuerst habe ich we
 
 ## Für den 7.3.2025
 
-- [ ] Schach Spiel(Bis Ende LP9)
-- [ ] Schach Spiel (2. Lektion)
-- [ ] Python-Basics für Modul 259
-- [ ] Modul 114 weitere Aufträge erledigen
+- [X] Schach Spiel(Bis Ende LP9)
+- [X] Schach Spiel (2. Lektion)
+- [X] Python-Basics für Modul 259
+- [X] Modul 114 weitere Aufträge erledigen
 
 ## 7.3.2025
 ## Leit-Satz
@@ -51,10 +51,10 @@ Heute habe ich wieder die ersten zwei Lektionen so aufgeteilt, dass ich daran ar
 
 ## Für den 14.3.2025
 
-- [ ] Schach Spiel(Bis Ende LP9)
-- [ ] Schach Spiel(2. Lektion)
-- [ ] Modul 114 Abgabe erledigen.
-- [ ] Python Projekt(Ich entscheide mich noch was für ein Projekt es wird)
+- [X] Schach Spiel(Bis Ende LP9)
+- [X] Schach Spiel(2. Lektion)
+- [X] Modul 114 Abgabe erledigen.
+- [X] Python Projekt(Ich entscheide mich noch was für ein Projekt es wird)
 
 ## 14.3.2025
 ## Leit-Satz
@@ -63,13 +63,26 @@ Heute habe ich meine Zeit gut eingeteilt und konnte im Modul 114 einiges voranbr
 
 ## Für den 21.3.2025
 
-- [ ] Schach Spiel(Bis Ende LP9)
-- [ ] Schach Spiel(2. Lektion)
-- [ ] Modul 114 Abgaben erledigen, falls bis dort noch nicht fertig.
+- [X] Schach Spiel(Bis Ende LP9)
+- [X] Schach Spiel(2. Lektion)
+- [X] Modul 114 Abgaben erledigen, falls bis dort noch nicht fertig.
 - [ ] Neue HTML Seite erstellen für Bewerbungen.
 
 ## 21.3.2025
 ## Leit-Satz
+
+Heute habe ich die Video Parts fürs Schach Spiel unterteilt, damit ich eine bessere Übersicht habe, in was für Themen ich bereits fertig geworden bin. Seien es die einzelnen Bewegungen der Spieler, oder seien es die einzelen Funktionen der Figuren. Diesmal war der Part dran, indem man die Legalen und Illegalen Bewegungen der Figuren schildert. Den auch im Schach Spiel gibt es ein paar Bewegungen die man als König oder allgemein als andere Figur nicht machen darf. Sobald der König in Gefahrt ist, Wird angezeigt, das man diese Bewegung nicht machen kann, weil man sonst das Spiel verlieren würde. In Schach kann man nur durch Aufgeben oder durch Check-Mate verlieren. Auch kann es zu einem Untentschieden kommen aber diese Regeln muss ich später noch miteinbauen. Dazu bin ich auch fast mit dem Modul 114 alles rund um Verschlüsselungsverfahren usw. fertig. Mir fehlen nur noch die letzten 2 Aufgaben zur Veschlüsselung. Aber dafür habe ich noch Zeit, weil ich die restlichen Aufgaben alle schon erledigt und abgegeben habe.(167 Wörter)
+
+## Für den 28.3.2025
+
+- [ ] Schach Spiel(Bis Ende LP9)
+- [ ] Schach Spiel(2. Lektion)
+- [ ] Modul 114 die letzten Abgaben, wenn nicht bis dahin fertig
+- [ ] HTML Seite für Bewerbungen
+
+
+
+
 
 
 
