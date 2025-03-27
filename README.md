@@ -78,7 +78,7 @@ Heute habe ich die Video Parts fürs Schach Spiel unterteilt, damit ich eine bes
 - [ ] Schach Spiel(Bis Ende LP9)
 - [ ] Schach Spiel(2. Lektion)
 - [ ] Modul 114 die letzten Abgaben, wenn nicht bis dahin fertig
-- [ ] HTML Seite für Bewerbungen
+- [ ] Modul 426 LB weiter arbeiten
 
 
 
