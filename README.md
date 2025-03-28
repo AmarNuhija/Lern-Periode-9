@@ -75,10 +75,10 @@ Heute habe ich die Video Parts fürs Schach Spiel unterteilt, damit ich eine bes
 
 ## Für den 28.3.2025
 
-- [ ] Schach Spiel(Bis Ende LP9)
-- [ ] Schach Spiel(2. Lektion)
+- [ ] Modul 426 LB weiter arbeiten, Casino-Projekt
+- [ ] Modul 426 LB weiter arbeiten, casino-Projekt
 - [ ] Modul 114 die letzten Abgaben, wenn nicht bis dahin fertig
-- [ ] Modul 426 LB weiter arbeiten
+- [ ] Modul 426 LB weiter arbeiten, Casino Projekt
 
 
 
