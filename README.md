@@ -80,8 +80,17 @@ Heute habe ich die Video Parts fürs Schach Spiel unterteilt, damit ich eine bes
 - [ ] Modul 114 die letzten Abgaben, wenn nicht bis dahin fertig
 - [ ] Modul 426 LB weiter arbeiten, Casino Projekt
 
+## 28.3.2025
+## Leit-Satz
 
+Heute steht die Weiterarbeit am Modul 426 LB im Fokus, konkret am Casino-Projekt. Ziel ist es, weitere User Storys umzusetzen und das Projekt funktional sowie optisch zu verbessern. Dabei wird sowohl an der Slotmaschine als auch an der BlackJack-Logik gearbeitet, um ein realistisches Spielerlebnis zu schaffen. Falls noch Zeit bleibt, werden letzte offene Abgaben aus Modul 114 abgeschlossen. Die Priorität liegt aber klar beim Casino-Projekt, da dort noch einige wichtige Features ausstehen.(72 Wörter)
 
+## Für den 5.4.2025
+
+- [ ] Modul 114 repetieren
+- [ ] Vorbereitungen für Modul 259 (Python)
+- [ ] BewerbungsWebsite anfangen (IDAF für Praktikum)
+- [ ] BewerbungsWebsite anfangen (IDAF für Praktikum)
 
 
 
