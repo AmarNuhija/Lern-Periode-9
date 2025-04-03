@@ -75,10 +75,10 @@ Heute habe ich die Video Parts fürs Schach Spiel unterteilt, damit ich eine bes
 
 ## Für den 28.3.2025
 
-- [ ] Modul 426 LB weiter arbeiten, Casino-Projekt
-- [ ] Modul 426 LB weiter arbeiten, casino-Projekt
-- [ ] Modul 114 die letzten Abgaben, wenn nicht bis dahin fertig
-- [ ] Modul 426 LB weiter arbeiten, Casino Projekt
+- [x] Modul 426 LB weiter arbeiten, Casino-Projekt
+- [x] Modul 426 LB weiter arbeiten, casino-Projekt
+- [x] Modul 114 die letzten Abgaben, wenn nicht bis dahin fertig
+- [x] Modul 426 LB weiter arbeiten, Casino Projekt
 
 ## 28.3.2025
 ## Leit-Satz
@@ -89,8 +89,8 @@ Heute steht die Weiterarbeit am Modul 426 LB im Fokus, konkret am Casino-Projekt
 
 - [ ] Modul 114 repetieren
 - [ ] Vorbereitungen für Modul 259 (Python)
-- [ ] BewerbungsWebsite anfangen (IDAF für Praktikum)
-- [ ] BewerbungsWebsite anfangen (IDAF für Praktikum)
+- [ ] ChessSpiel weiter fortfahren wie gewohnt
+- [ ] ChessSpiel weiter fortfahren wie gewohnt
 
 
 
