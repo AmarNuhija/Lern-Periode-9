@@ -87,12 +87,15 @@ Heute steht die Weiterarbeit am Modul 426 LB im Fokus, konkret am Casino-Projekt
 
 ## Für den 4.4.2025
 
-- [ ] Modul 114 repetieren
-- [ ] Vorbereitungen für Modul 259 (Python)
-- [ ] ChessSpiel weiter fortfahren wie gewohnt
-- [ ] ChessSpiel weiter fortfahren wie gewohnt
+- [x] Modul 114 repetieren
+- [x] Vorbereitungen für Modul 259 (Python)
+- [x] ChessSpiel weiter fortfahren wie gewohnt
+- [x] ChessSpiel weiter fortfahren wie gewohnt
 
+## 4.4.2025
+## Leit-Satz
 
+Heute habe ich mich mal wieder etwas mit Schach beschäftigt – diesmal ging es darum, wie eine Partie endet. Genauer gesagt: Warum wird ein Spiel überhaupt beendet? Es gibt mehrere natürliche Arten, wie ein Schachspiel zu Ende gehen kann. Ich habe folgende Möglichkeiten implementiert die es auch natürlich gibt und braucht. Schachmatt, Patt, die Fünfzig-Züge-Regel, unzureichendes Material sowie die dreifache Stellungswiederholung. Damit verbunden war auch die Umsetzung des GameResult, das festhält, wer gewonnen hat (winner) und aus welchem Grund (reason). Zusätzlich habe ich heute die Methode AllLegalMovesFor implementiert, die bestimmt, welcher Spieler am Zug ist und welche Züge ihm erlaubt sind. Danach folgte CheckForGameOver, mit der überprüft wird, ob das Spiel vorbei ist – entweder durch einen Sieg oder ein Unentschieden. Ein Unentschieden liegt zum Beispiel vor, wenn der Gegner keinen legalen Zug mehr machen kann, aber nicht im Schachmatt steht.
 
 
 
