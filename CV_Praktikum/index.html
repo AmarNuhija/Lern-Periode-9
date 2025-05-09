@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nuhija Amar - Homepage</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="bg-blobs">
+    <div class="blob-1"></div>
+    <div class="blob-2"></div>
+  </div>
+  
+  <div class="gift-selection" id="giftSelection">
+    <h1>Willkommen auf meiner Homepage</h1>
+    <p class="subtitle">Ein Geschenk wählen, um mehr zu erfahren!</p>
+    
+    <div class="gifts-container">
+      <div class="gift-option" data-target="cv">
+        <div class="gift-box">
+          <div class="gift-lid" style="background: #e74c3c;"></div>
+          <div class="gift-body" style="background: #c0392b;">
+            <div class="gift-bow"></div>
+            <div class="gift-bow-center"></div>
+          </div>
+        </div>
+        <div class="gift-label">Lebenslauf</div>
+      </div>
+      
+      <div class="gift-option" data-target="application">
+        <div class="gift-box">
+          <div class="gift-lid" style="background: #3498db;"></div>
+          <div class="gift-body" style="background: #2980b9;">
+            <div class="gift-bow"></div>
+            <div class="gift-bow-center"></div>
+          </div>
+        </div>
+        <div class="gift-label">Bewerbung</div>
+      </div>
+      
+      <div class="gift-option" data-target="projects">
+        <div class="gift-box">
+          <div class="gift-lid" style="background: #2ecc71;"></div>
+          <div class="gift-body" style="background: #27ae60;">
+            <div class="gift-bow"></div>
+            <div class="gift-bow-center"></div>
+          </div>
+        </div>
+        <div class="gift-label">Projekte</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="content-container" id="cvContainer">
+    <button class="back-button" onclick="showGiftSelection()">
+      <i class="fas fa-arrow-left"></i> Zurück
+    </button>
+    <div class="container">
+      <div class="header">
+        <img src="MessiHAHA.png" alt="Profilbild von Nuhija Amar" class="profile-picture">
+        <h1>Nuhija Amar</h1>
+        <div class="title">IMS Student | Bereit für Neues</div>
+        <div class="contact-info">
+          <div class="contact-item">
+            <i class="fas fa-birthday-cake"></i>
+            <span>18.11.2006</span>
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-map-marker-alt"></i>
+            <span>Wasserweg 6, 5722 Gränichen</span>
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-phone"></i>
+            <span>076 212 96 34</span>
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-envelope"></i>
+            <span>A.Nuhija.inf23@stud.bbbaden.ch</span>
+          </div>
+        </div>
+      </div>
+      
+      <div class="main-content">
+        <div class="sidebar">
+          <div class="section">
+            <h2>Fähigkeiten</h2>
+            <div class="skill-item">
+              <div class="skill-name">
+                <span>HTML & CSS</span>
+                <span>80%</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress" style="width: 80%"></div>
+              </div>
+            </div>
+            <div class="skill-item">
+              <div class="skill-name">
+                <span>JavaScript</span>
+                <span>50%</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress" style="width: 50%"></div>
+              </div>
+            </div>
+            <div class="skill-item">
+              <div class="skill-name">
+                <span>C#</span>
+                <span>70%</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress" style="width: 70%"></div>
+              </div>
+            </div>
+            <div class="skill-item">
+              <div class="skill-name">
+                <span>OOP</span>
+                <span>70%</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress" style="width: 70%"></div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="section">
+            <h2>Technologien</h2>
+            <div class="tags">
+              <span class="tag">HTML5</span>
+              <span class="tag">CSS3</span>
+              <span class="tag">JavaScript</span>
+              <span class="tag">C#</span>
+              <span class="tag">.NET</span>
+              <span class="tag">Git</span>
+              <span class="tag">Responsive Design</span>
+              <span class="tag">MSSQL</span>
+              <span class="tag">NoSQL</span>
+            </div>
+          </div>
+          
+          <div class="section">
+            <h2>Sprachen</h2>
+            <div class="skill-item">
+                <div class="skill-name">
+                  <span>Albanisch</span>
+                  <span>Muttersprache</span>
+                </div>
+                <div class="progress-bar">
+                  <div class="progress" style="width: 100%"></div>
+                </div>
+              </div>
+            <div class="skill-item">
+              <div class="skill-name">
+                <span>Deutsch</span>
+                <span>Fliessend</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress" style="width: 100%"></div>
+              </div>
+            </div>
+            <div class="skill-item">
+              <div class="skill-name">
+                <span>Englisch</span>
+                <span>Fliessend</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress" style="width: 85%"></div>
+              </div>
+            </div>
+            <div class="skill-item">
+              <div class="skill-name">
+                <span>Französisch</span>
+                <span>Grundkenntnisse</span>
+              </div>
+              <div class="progress-bar">
+                <div class="progress" style="width: 50%"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="content">
+          <div class="section">
+            <h2>Über mich</h2>
+            <p class="motivation-text">
+              Als leidenschaftlicher IMS-Student mit Fokus auf Informatik strebe ich ein Praktikum an, um meine Fähigkeiten in der Frontend-Entwicklung zu vertiefen und praktische Erfahrungen zu sammeln. Ich liebe es, kreative Lösungen zu entwickeln und mich mit neuen Technologien auseinanderzusetzen. Mein Ziel ist es, nutzerfreundliche und ästhetisch ansprechende Webanwendungen zu gestalten.
+            </p>
+          </div>
+          
+          <div class="section">
+            <h2>Ausbildung</h2>
+            <div class="timeline">
+              <div class="timeline-item">
+                <div class="timeline-date">2023 - 2026 (voraussichtlich)</div>
+                <h3 class="timeline-title">Informatikmittelschule (IMS)</h3>
+                <p class="timeline-text">Berufsfachschule Baden & Alte Kantonsschule Aarau (AKSA)</p>
+                <p class="timeline-text">Schwerpunkt: Softwareentwicklung</p>
+              </div>
+              <div class="timeline-item">
+                <div class="timeline-date">2020 - 2023</div>
+                <h3 class="timeline-title">Bezirksschule</h3>
+                <p class="timeline-text">Bezirksschule Suhr</p>
+              </div>
+              <div class="timeline-item">
+                <div class="timeline-date">2014 - 2020</div>
+                <h3 class="timeline-title">Primarschule</h3>
+                <p class="timeline-text">Primarschule Gränichen</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="section">
+            <h2>Projekte</h2>
+            <div class="timeline">
+              <div class="timeline-item">
+                <h3 class="timeline-title">Persönliche Portfolio-Website</h3>
+                <p class="timeline-text">Entwicklung einer responsiven Website zur Präsentation meiner Projekte und Fähigkeiten mit HTML, CSS und JavaScript.</p>
+              </div>
+              <div class="timeline-item">
+                <h3 class="timeline-title">Schulprojekt: Wetter-App</h3>
+                <p class="timeline-text">Erstellung einer Wetteranwendung mit C# und .NET, die Daten von einer API abruft und anzeigt.</p>
+              </div>
+              <div class="timeline-item">
+                <h3 class="timeline-title">E-Commerce Demo</h3>
+                <p class="timeline-text">Konzeption und prototypische Umsetzung eines einfachen Online-Shops mit Produktkatalog und Warenkorb-Funktion.</p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="section">
+            <h2>Interessen</h2>
+            <div class="hobbies">
+              <div class="hobby-item">
+                <i class="fas fa-code"></i>
+                <span class="hobby-name">Programmieren</span>
+              </div>
+              <div class="hobby-item">
+                <i class="fas fa-basketball-ball"></i>
+                <span class="hobby-name">Basketball</span>
+              </div>
+              <div class="hobby-item">
+                <i class="fas fa-gamepad"></i>
+                <span class="hobby-name">Gaming</span>
+              </div>
+              <div class="hobby-item">
+                <i class="fas fa-laptop-code"></i>
+                <span class="hobby-name">Webdesign</span>
+              </div>
+              <div class="hobby-item">
+                <i class="fas fa-microchip"></i>
+                <span class="hobby-name">Technologie</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Application Content -->
+  <div class="content-container" id="applicationContainer">
+    <button class="back-button" onclick="showGiftSelection()">
+      <i class="fas fa-arrow-left"></i> Zurück
+    </button>
+    <div class="container">
+      <div class="header">
+        <h1>Meine Bewerbung</h1>
+        <div class="title">Für ein IMS-Praktikum</div>
+      </div>
+      
+      <div class="main-content">
+        <div class="content">
+          <div class="section">
+            <h2>Anschreiben</h2>
+            <div class="motivation-text">
+              <p>Sehr geehrte Damen und Herren,</p>
+              <p>mit großem Interesse habe ich Ihr Praktikumsangebot für IMS-Studenten entdeckt und bewerbe mich hiermit um eine Praktikumsstelle in Ihrem Unternehmen.</p>
+              <p>Als angehender Informatiker mit Schwerpunkt auf Softwareentwicklung bringe ich fundierte Kenntnisse in HTML, CSS, JavaScript und C# mit. Besonders begeistert mich die Frontend-Entwicklung, wo ich meine kreative Ader mit technischem Know-how verbinden kann.</p>
+              <p>In meinen Projekten (die Sie unter "Projekte" einsehen können) habe ich bereits praktische Erfahrungen sammeln können und würde diese gerne in Ihrem Unternehmen erweitern.</p>
+              <p>Über die Gelegenheit, mich persönlich vorzustellen, würde ich mich sehr freuen.</p>
+              <p>Mit freundlichen Grüßen,</p>
+              <p>Nuhija Amar</p>
+            </div>
+          </div>
+          
+          <div class="section">
+            <h2>Warum ich?</h2>
+            <div class="timeline">
+              <div class="timeline-item">
+                <h3 class="timeline-title">Leidenschaft für Coding</h3>
+                <p class="timeline-text">Ich entwickle nicht nur für die Schule, sondern auch in meiner Freizeit eigene Projekte und erweitere ständig mein Wissen.</p>
+              </div>
+              <div class="timeline-item">
+                <h3 class="timeline-title">Teamfähigkeit</h3>
+                <p class="timeline-text">Durch Gruppenprojekte und Teamarbeit in der Schule habe ich gelernt, effektiv im Team zu arbeiten.</p>
+              </div>
+              <div class="timeline-item">
+                <h3 class="timeline-title">Lernbereitschaft</h3>
+                <p class="timeline-text">Ich bin stets motiviert, neue Technologien und Konzepte zu erlernen und mich weiterzuentwickeln.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Projects Content -->
+  <div class="content-container" id="projectsContainer">
+    <button class="back-button" onclick="showGiftSelection()">
+      <i class="fas fa-arrow-left"></i> Zurück
+    </button>
+    <div class="container">
+      <div class="header">
+        <h1>Meine Projekte</h1>
+        <div class="title">Eine Auswahl meiner Arbeiten</div>
+      </div>
+      
+      <div class="main-content">
+        <div class="content">
+          <div class="section">
+            <div class="project-card">
+              <h2>Schachspiel</h2>
+              <div class="project-description">
+                <p>Ein voll funktionsfähiges Schachspiel implementiert in C# mit allen Standardregeln und Zügen.</p>
+                <div class="project-tech">
+                  <span class="tech-tag">C#</span>
+                  <span class="tech-tag">.NET</span>
+                  <span class="tech-tag">OOP</span>
+                </div>
+                <a href="https://github.com/AmarNuhija/Lern-Periode-9ChessGame" target="_blank" class="project-link">
+                  <i class="fab fa-github"></i> Auf GitHub ansehen
+                </a>
+              </div>
+            </div>
+            
+            <div class="project-card">
+              <h2>Used Cars ML Project</h2>
+              <div class="project-description">
+                <p>Ein Machine Learning Projekt zur Vorhersage von Gebrauchtwagenpreisen mit verschiedenen Algorithmen.</p>
+                <div class="project-tech">
+                  <span class="tech-tag">Python</span>
+                  <span class="tech-tag">Machine Learning</span>
+                  <span class="tech-tag">Pandas</span>
+                  <span class="tech-tag">Scikit-learn</span>
+                </div>
+                <a href="https://github.com/AmarNuhija/used-cars-ml-project" target="_blank" class="project-link">
+                  <i class="fab fa-github"></i> Auf GitHub ansehen
+                </a>
+              </div>
+            </div>
+            
+            <div class="project-card">
+              <h2>Only HTML & CSS</h2>
+              <div class="project-description">
+                <p>Eine Sammlung von Webseiten, die nur mit HTML und CSS erstellt wurden, um fundamentale Webentwicklungsfähigkeiten zu demonstrieren.</p>
+                <div class="project-tech">
+                  <span class="tech-tag">HTML5</span>
+                  <span class="tech-tag">CSS3</span>
+                  <span class="tech-tag">Responsive Design</span>
+                </div>
+                <a href="https://github.com/AmarNuhija/Only-HTML-CSS" target="_blank" class="project-link">
+                  <i class="fab fa-github"></i> Auf GitHub ansehen
+                </a>
+              </div>
+            </div>
+            
+            <div class="project-card">
+              <h2>Tic-Tac-Toe</h2>
+              <div class="project-description">
+                <p>Ein einfaches aber voll funktionsfähiges Tic-Tac-Toe Spiel, das verschiedene Programmierkonzepte demonstriert.</p>
+                <div class="project-tech">
+                  <span class="tech-tag">JavaScript</span>
+                  <span class="tech-tag">HTML</span>
+                  <span class="tech-tag">CSS</span>
+                </div>
+                <a href="https://github.com/AmarNuhija/Only-Tic-Tac-Toe" target="_blank" class="project-link">
+                  <i class="fab fa-github"></i> Auf GitHub ansehen
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
